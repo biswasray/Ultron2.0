@@ -1,0 +1,8 @@
+E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe.config
+E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.pdb
+E:\repo\Ultron2.0\Ultron2.0\obj\Debug\Ultron2._0.ProjectInstaller.resources
+E:\repo\Ultron2.0\Ultron2.0\obj\Debug\Ultron2.0.csproj.GenerateResource.cache
+E:\repo\Ultron2.0\Ultron2.0\obj\Debug\Ultron2.0.csproj.CoreCompileInputs.cache
+E:\repo\Ultron2.0\Ultron2.0\obj\Debug\Ultron2.0.exe
+E:\repo\Ultron2.0\Ultron2.0\obj\Debug\Ultron2.0.pdb

@@ -1,0 +1,272 @@
+﻿Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Rolling back assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Uninstalling assembly 'E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.InstallLog
+   assemblypath = E:\repo\Ultron2.0\Ultron2.0\bin\Debug\Ultron2.0.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
